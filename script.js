@@ -2,9 +2,6 @@ var dates = {
     "1600" :[" Битва при Сэкигахара.","началось извержение вулкана Перу","Перенесение столицы Японии  в Эдо","Якопо Пери написал оперу «Эвридика»","Иштеряк становится бием Ногайской орды"]
 }
 
-
-
-
 var textInput = document.querySelector('input')
 var button = document.querySelector('button')
 var events = document.querySelectorAll('p') 
